@@ -1,0 +1,10 @@
+#ContactMe .imgContainer {
+  display: flex;
+  justify-content: center;
+}
+
+#ContactMe {
+  padding: 6rem;
+  background-color: var(--main-bg-color);
+  color: var(--second-bg-color);
+}
